@@ -3,11 +3,11 @@
 }
 
 .MuiTableSortLabel-icon {
-  color: #cdd2ff !important;
+  color: #f5f4ef !important;
 }
 
 .MuiOutlinedInput-input {
-  color: black
+  color: black;
 }
 
 /* width */
@@ -17,7 +17,7 @@
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #cdd2ff;
+  background: #f5f4ef;
 }
 
 /* Handle */

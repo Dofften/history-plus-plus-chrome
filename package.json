@@ -1,6 +1,6 @@
 {
   "name": "history-plus-plus-chrome",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
@@ -20,7 +20,7 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
-    "build": "INLINE_RUNTIME_CHUNK=false react-scripts build"
+    "build": "cross-env INLINE_RUNTIME_CHUNK=false react-scripts build"
   },
   "eslintConfig": {
     "extends": [
